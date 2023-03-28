@@ -1,1 +1,1 @@
-![graph][./img/Figure_1.png]
+![graph](./img/Figure_1.png)
