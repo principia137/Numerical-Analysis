@@ -1,4 +1,4 @@
-###Numerical-Analysis
-#some example of numerical analysis..   
-#based on lecture note by prof.Ha
+### Numerical-Analysis
+# some example of numerical analysis..   
+# based on lecture note by prof.Ha
 
